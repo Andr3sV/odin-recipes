@@ -1,0 +1,54 @@
+
+
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.menu {
+    background-color: rgb(244, 145, 149);
+    color: rgb(255, 255, 255);
+    margin: -10px;
+    padding: 1px 0px;
+    text-align: center;
+}
+
+
+.intro {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: rgb(92, 92, 92);
+}
+
+.box {
+    display: inline-block;
+  width: auto;
+}
+
+.recipe1, .recipe2, .recipe3 {
+    display: inline-block;
+    padding: 50px;
+    text-align: center;
+}
+
+
+.sitemap {
+    font-size: 15px;
+    background-color: rgb(144, 144, 144);
+    color: aliceblue;
+    padding: 10px 30px;
+}
+
+.image {
+    display: inline-block;
+}
+
+
+
+
+
+
+/* {
+    outline: 2px solid red;
+  }
